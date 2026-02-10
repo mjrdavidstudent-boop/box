@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+.box {
+  margin: auto;
+  width: 200px;
+  height: 200px;
+  background: pink;
+  text-align: center;
+  border: 3px solid black;
+  padding-top: 80px;
+  display: block;
+  font-family: 'Times New Roman', Times, serif;
+}
